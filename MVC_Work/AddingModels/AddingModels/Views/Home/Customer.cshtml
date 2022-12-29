@@ -1,0 +1,26 @@
+﻿@model AddingModels.Models.Customer
+@{
+    ViewBag.Title = "Customer";
+}
+
+<h2>Customer</h2>
+
+<table border ="1" class= "table table-bordered table-responsive" >
+    <thead>
+        <tr class="btn-primary">
+            <th>Customer ID</th>
+            <th>Customer Name</th>
+            <th>Amount</th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        <tr>
+            <td>@Model.CustID</td>
+            <td>@Model.CustName</td>
+            <td>@Model.Amount</td>
+        </tr>
+    </tbody>
+
+</table>

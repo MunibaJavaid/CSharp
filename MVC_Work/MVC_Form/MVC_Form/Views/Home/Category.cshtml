@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "Category";
+}
+
+<h2>Category Page</h2>
+
+<style>
+    .a{
+        color:blueviolet;
+    }
+</style>
+<div>
+    @using(Html.BeginForm()){
+
+        <div class= "container">
+
+            <table class="table table-boderless">
+
+                <tr>
+                    <td>@Html.Label("User Name", new { @class = "a" })</td>
+                    <td>@Html.TextBox("txtname", "", new { @class = "form-control", @placeholder = "Enter your name" })</td>
+                </tr>
+                <tr>
+                    <td>@Html.Label("Password", new { @class = "a" })</td>
+                    <td>@Html.Password("txtpwd", "", new { @class = "form-control",@placeholder = "Enter Password"})</td>
+                </tr>
+                <tr>
+                    <td>@Html.Label("Email", new { @class = "a" })</td>
+                    <td>@Html.TextBox("txtemail", "", new { @class = "form-control", @placeholder = "Enter your name", type = "email"})</td>
+                </tr>
+                <tr>
+                    <td>@Html.Label("Gender", new { @class = "a" })</td>
+                    <td>
+                        @Html.RadioButton("gen", "Male")<span>Male</span>
+                        @Html.RadioButton("gen", "Female")<span>Female</span>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><input type="submit" class="btn btn-info" value="Submit"/> </td>
+                </tr>
+
+               <tr>
+                   <td>
+                       <p>@ViewBag.name</p>
+                       <p>@ViewBag.Pass</p>
+                       <p>@ViewBag.Email</p>
+                       <p>@ViewBag.gender </p>
+                   </td>
+               </tr>
+            </table>
+        </div>
+    }
+
+</div>
+
+
+

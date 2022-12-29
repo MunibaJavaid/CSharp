@@ -1,0 +1,7 @@
+c:\users\muniba\source\repos\FinallyStatement\FinallyStatement\bin\Debug\FinallyStatement.exe.config
+c:\users\muniba\source\repos\FinallyStatement\FinallyStatement\bin\Debug\FinallyStatement.exe
+c:\users\muniba\source\repos\FinallyStatement\FinallyStatement\bin\Debug\FinallyStatement.pdb
+c:\users\muniba\source\repos\FinallyStatement\FinallyStatement\obj\Debug\FinallyStatement.csprojResolveAssemblyReference.cache
+c:\users\muniba\source\repos\FinallyStatement\FinallyStatement\obj\Debug\FinallyStatement.csproj.CoreCompileInputs.cache
+c:\users\muniba\source\repos\FinallyStatement\FinallyStatement\obj\Debug\FinallyStatement.exe
+c:\users\muniba\source\repos\FinallyStatement\FinallyStatement\obj\Debug\FinallyStatement.pdb

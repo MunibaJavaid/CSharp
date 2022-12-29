@@ -1,0 +1,7 @@
+c:\users\muniba\source\repos\Indexer\Indexer\bin\Debug\Indexer.exe.config
+c:\users\muniba\source\repos\Indexer\Indexer\bin\Debug\Indexer.exe
+c:\users\muniba\source\repos\Indexer\Indexer\bin\Debug\Indexer.pdb
+c:\users\muniba\source\repos\Indexer\Indexer\obj\Debug\Indexer.csprojResolveAssemblyReference.cache
+c:\users\muniba\source\repos\Indexer\Indexer\obj\Debug\Indexer.csproj.CoreCompileInputs.cache
+c:\users\muniba\source\repos\Indexer\Indexer\obj\Debug\Indexer.exe
+c:\users\muniba\source\repos\Indexer\Indexer\obj\Debug\Indexer.pdb

@@ -1,0 +1,7 @@
+c:\users\muniba\source\repos\ParameterIndexer\ParameterIndexer\bin\Debug\ParameterIndexer.exe.config
+c:\users\muniba\source\repos\ParameterIndexer\ParameterIndexer\bin\Debug\ParameterIndexer.exe
+c:\users\muniba\source\repos\ParameterIndexer\ParameterIndexer\bin\Debug\ParameterIndexer.pdb
+c:\users\muniba\source\repos\ParameterIndexer\ParameterIndexer\obj\Debug\ParameterIndexer.csprojResolveAssemblyReference.cache
+c:\users\muniba\source\repos\ParameterIndexer\ParameterIndexer\obj\Debug\ParameterIndexer.csproj.CoreCompileInputs.cache
+c:\users\muniba\source\repos\ParameterIndexer\ParameterIndexer\obj\Debug\ParameterIndexer.exe
+c:\users\muniba\source\repos\ParameterIndexer\ParameterIndexer\obj\Debug\ParameterIndexer.pdb

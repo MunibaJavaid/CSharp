@@ -1,0 +1,7 @@
+c:\users\muniba\source\repos\ThrowStatement\ThrowStatement\bin\Debug\ThrowStatement.exe.config
+c:\users\muniba\source\repos\ThrowStatement\ThrowStatement\bin\Debug\ThrowStatement.exe
+c:\users\muniba\source\repos\ThrowStatement\ThrowStatement\bin\Debug\ThrowStatement.pdb
+c:\users\muniba\source\repos\ThrowStatement\ThrowStatement\obj\Debug\ThrowStatement.csprojResolveAssemblyReference.cache
+c:\users\muniba\source\repos\ThrowStatement\ThrowStatement\obj\Debug\ThrowStatement.csproj.CoreCompileInputs.cache
+c:\users\muniba\source\repos\ThrowStatement\ThrowStatement\obj\Debug\ThrowStatement.exe
+c:\users\muniba\source\repos\ThrowStatement\ThrowStatement\obj\Debug\ThrowStatement.pdb

@@ -1,0 +1,7 @@
+c:\users\muniba\source\repos\Employee\Employee\bin\Debug\Employee.exe.config
+c:\users\muniba\source\repos\Employee\Employee\bin\Debug\Employee.exe
+c:\users\muniba\source\repos\Employee\Employee\bin\Debug\Employee.pdb
+c:\users\muniba\source\repos\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+c:\users\muniba\source\repos\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+c:\users\muniba\source\repos\Employee\Employee\obj\Debug\Employee.exe
+c:\users\muniba\source\repos\Employee\Employee\obj\Debug\Employee.pdb

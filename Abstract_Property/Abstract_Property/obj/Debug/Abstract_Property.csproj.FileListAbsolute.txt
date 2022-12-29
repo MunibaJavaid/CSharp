@@ -1,0 +1,7 @@
+c:\users\muniba\source\repos\Abstract_Property\Abstract_Property\bin\Debug\Abstract_Property.exe.config
+c:\users\muniba\source\repos\Abstract_Property\Abstract_Property\bin\Debug\Abstract_Property.exe
+c:\users\muniba\source\repos\Abstract_Property\Abstract_Property\bin\Debug\Abstract_Property.pdb
+c:\users\muniba\source\repos\Abstract_Property\Abstract_Property\obj\Debug\Abstract_Property.csprojResolveAssemblyReference.cache
+c:\users\muniba\source\repos\Abstract_Property\Abstract_Property\obj\Debug\Abstract_Property.csproj.CoreCompileInputs.cache
+c:\users\muniba\source\repos\Abstract_Property\Abstract_Property\obj\Debug\Abstract_Property.exe
+c:\users\muniba\source\repos\Abstract_Property\Abstract_Property\obj\Debug\Abstract_Property.pdb

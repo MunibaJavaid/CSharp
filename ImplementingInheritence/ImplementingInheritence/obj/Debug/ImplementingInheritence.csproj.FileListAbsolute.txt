@@ -1,0 +1,7 @@
+c:\users\muniba\source\repos\ImplementingInheritence\ImplementingInheritence\bin\Debug\ImplementingInheritence.exe.config
+c:\users\muniba\source\repos\ImplementingInheritence\ImplementingInheritence\bin\Debug\ImplementingInheritence.exe
+c:\users\muniba\source\repos\ImplementingInheritence\ImplementingInheritence\bin\Debug\ImplementingInheritence.pdb
+c:\users\muniba\source\repos\ImplementingInheritence\ImplementingInheritence\obj\Debug\ImplementingInheritence.csprojResolveAssemblyReference.cache
+c:\users\muniba\source\repos\ImplementingInheritence\ImplementingInheritence\obj\Debug\ImplementingInheritence.csproj.CoreCompileInputs.cache
+c:\users\muniba\source\repos\ImplementingInheritence\ImplementingInheritence\obj\Debug\ImplementingInheritence.exe
+c:\users\muniba\source\repos\ImplementingInheritence\ImplementingInheritence\obj\Debug\ImplementingInheritence.pdb

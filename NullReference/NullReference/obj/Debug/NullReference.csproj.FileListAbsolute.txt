@@ -1,0 +1,6 @@
+c:\users\muniba\source\repos\NullReference\NullReference\bin\Debug\NullReference.exe.config
+c:\users\muniba\source\repos\NullReference\NullReference\bin\Debug\NullReference.exe
+c:\users\muniba\source\repos\NullReference\NullReference\bin\Debug\NullReference.pdb
+c:\users\muniba\source\repos\NullReference\NullReference\obj\Debug\NullReference.csproj.CoreCompileInputs.cache
+c:\users\muniba\source\repos\NullReference\NullReference\obj\Debug\NullReference.exe
+c:\users\muniba\source\repos\NullReference\NullReference\obj\Debug\NullReference.pdb

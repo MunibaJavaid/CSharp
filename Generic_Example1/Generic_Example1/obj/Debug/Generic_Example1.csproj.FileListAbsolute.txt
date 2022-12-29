@@ -1,0 +1,7 @@
+C:\Users\muniba\source\repos\Generic_Example1\Generic_Example1\bin\Debug\Generic_Example1.exe.config
+C:\Users\muniba\source\repos\Generic_Example1\Generic_Example1\bin\Debug\Generic_Example1.exe
+C:\Users\muniba\source\repos\Generic_Example1\Generic_Example1\bin\Debug\Generic_Example1.pdb
+C:\Users\muniba\source\repos\Generic_Example1\Generic_Example1\obj\Debug\Generic_Example1.csprojResolveAssemblyReference.cache
+C:\Users\muniba\source\repos\Generic_Example1\Generic_Example1\obj\Debug\Generic_Example1.csproj.CoreCompileInputs.cache
+C:\Users\muniba\source\repos\Generic_Example1\Generic_Example1\obj\Debug\Generic_Example1.exe
+C:\Users\muniba\source\repos\Generic_Example1\Generic_Example1\obj\Debug\Generic_Example1.pdb
